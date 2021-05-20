@@ -2,6 +2,8 @@
 
 Coursera course: [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 
+Link for [Module 3 Assignment Solution](https://abdulsamad4068.github.io/HTML-CSS-and-Javascript-for-Web-Developers-Coursera/module3_assignment/index.html#chicken-tile)
+ 
 Woo-hoo! MORE CODING!!! Exciting! :-)
 
 **Time to complete:** About 1 hour or less.
