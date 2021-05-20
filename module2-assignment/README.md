@@ -1,6 +1,7 @@
 # Module 2 Coding Assignment
 
 Coursera course: [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
+Link to [Module 2 Assignment](https://abdulsamad4068.github.io/HTML-CSS-and-Javascript-for-Web-Developers-Coursera/module2-assignment/index.html)
 
 Woo-hoo! You get to do some coding! Exciting!
 
